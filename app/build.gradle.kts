@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.myapp"
+    namespace = "com.lx.ejecutor"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.myapp"
+        applicationId = "com.lx.ejecutor"
         minSdk = 26
         targetSdk = 35
         versionCode = 1
